@@ -12,4 +12,4 @@ Assignment 5: Implementing a pseudo real-time scheduler
 1. Path to the rmsched directory
 2. type `gcc rmsched.c -o rmsched` to compile the program
 3. type `./rmsched <nPeriods> <taskSet file> <schedule file>`
-* This will compile the program. The program will take command line input in the form of the nPeriods, a taskSet file location, and a sdchedule file location.
+* This will compile the program. The program will take command line input in the form of the nPeriods, a taskSet file location, and a schedule file location.
